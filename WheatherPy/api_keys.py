@@ -1,1 +1,2 @@
-weather_api_key = 'input api key here'
+weather_api_key = 'place your key here'
+
