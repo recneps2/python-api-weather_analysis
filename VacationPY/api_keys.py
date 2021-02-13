@@ -1,1 +1,1 @@
-g_key = 'Place your key here'
+g_key = 'place your key here'
