@@ -4,7 +4,7 @@ Empirically showing the impact to weather/temperature as distance to the equator
 __
 
 Observable trends in the data
-1)	There is clear correlation between max teetered and proximity to the equator - the closer one is to gets to the equator the higher tempters they will experience
+1)	There is clear correlation between max temperature and proximity to the equator - the closer one is to gets to the equator the higher tempters they will experience
 a.	Northern hemisphere – Temperature v Latitude
  (WeatherPy/fig5.png)
 b.	Southern hemisphere – Temperature v Latitude
